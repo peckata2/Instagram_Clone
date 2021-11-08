@@ -1,3 +1,3 @@
-package com.example.domain.entities
+package com.example.domain.models
 
 data class Comment(val content:String)

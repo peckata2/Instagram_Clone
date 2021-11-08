@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Instagram_Clone</string>
-    <string name="facebook_app_id">1324069601354774</string>
+    <string name="facebook_app_id">303948008010901</string>
+    <string name="instagram_app_id">322741382524289</string>
+    <string name="redirectURI">https://github.com/peckata2/IMDB_app/blob/master/app/src/main/java/com/example/imdb_app/Repository.kt</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
